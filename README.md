@@ -1,3 +1,7 @@
-# Mortal Kombat 1
+# JaKombat 1 
+== Mortal Kombat 1 DLC
 
-https://medium.com/@nazimboudeffa/how-to-make-a-fighting-game-with-phaser-ce-4592a4d97972
+This is a very simple Javascript Mortal Kombat customization
+
+ 
+
